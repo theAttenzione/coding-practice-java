@@ -1,4 +1,4 @@
-# problem-solving-hashmaps
+# Coding Practice
 
 These are my solutions of some CS problems to be shared with family and friends. Each file includes a link to the problem description.
 
